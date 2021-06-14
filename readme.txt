@@ -1,0 +1,3 @@
+Contacts app
+
+This was a relatively simple design but still challenging for me because i'm still not very good at navigating with tkinter, the main use of this GUI is to be able to view a stored list of contacts and be able to add and delete from that list all in the vire of a GUI. Another side note, I should've used a class to structure the main component of this program but I kept running into errors.
